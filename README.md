@@ -69,3 +69,8 @@ def check_final_result_scores():
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Rock,%20paper%20or%20scissors%20script`
 
 ## Video
+
+
+
+https://user-images.githubusercontent.com/99032604/199367605-83e5b8da-6470-4919-ad66-37cc6b6ba554.mp4
+
