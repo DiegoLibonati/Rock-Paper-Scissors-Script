@@ -28,7 +28,7 @@ I made a web page that allows you to play the memory game. You have to find the 
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Rock,%20paper%20or%20scissors%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Rock,%20Paper%20Or%20Scissors%20Script`
 
 ## Video
 
